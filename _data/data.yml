@@ -29,15 +29,15 @@ sidebar:
 #       - idiom: Hindi
 #         level: Professional
 
-    interests:
-      - item: Climbing
-        link:
+#     interests:
+#       - item: Climbing
+#         link:
 
-      - item: Snowboarding
-        link:
+#       - item: Snowboarding
+#         link:
 
-      - item: Cooking
-        link:
+#       - item: Cooking
+#         link:
 
 career-profile:
     title: Career Profile
@@ -85,32 +85,32 @@ projects:
     intro: >
       Some open source stuff:
     assignments:
-      - title: Image Denoising
-        link: "https://github.com/kritiksoman/Fuzzy-Salt-n-Pepper-Denoise"
-        tagline: "Script for removing Salt and Pepper noise from greyscale image using Type 2 Fuzzy System."
-
-      - title: Adaptive Learning Rate
-        link: "https://github.com/kritiksoman/CV-and-Neural-Nets-Basic/tree/master/Adaptive-Learning-Rate-Lyapunov"
-        tagline: "Implementation of the paper "On adaptive learning rate that guarantees convergence in feedforward networks"
-
       - title: Aerial Drone Data Processing
         link: "https://github.com/kritiksoman/Aerial-Segmentation"
         tagline: "Few scripts for processing aerial drone data."
         
       - title: Wireless Sensor Network
         link: "https://github.com/kritiksoman/WSN-Localization"
-        tagline: "Scipts for node localization in a "
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Scipts for node localization in a Wireless Sensor Network"
+        
+      - title: Image Denoising
+        link: "https://github.com/kritiksoman/Fuzzy-Salt-n-Pepper-Denoise"
+        tagline: "Script for removing Salt and Pepper noise from greyscale image using Type 2 Fuzzy System."
+        
+      - title: Adaptive Learning Rate
+        link: "https://github.com/kritiksoman/CV-and-Neural-Nets-Basic/tree/master/Adaptive-Learning-Rate-Lyapunov"
+        tagline: "Implementation of the paper "On adaptive learning rate that guarantees convergence in feedforward networks"
+        
+      - title: Magnetometer Calibration
+        link: "https://github.com/kritiksoman/Magnetometer-Calibration"
+        tagline: "Script for calibrating a MEMS magnetometer."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
     papers:
       - title: Rooftop Detection using Aerial Drone Imagery
         link: "https://dlnext.acm.org/doi/abs/10.1145/3297001.3297041"
