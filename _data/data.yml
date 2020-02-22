@@ -42,9 +42,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Final year masters student. Interested in Computer Vision, Machine Learning, AI, Signal Processing.
+      Final year masters student. \\
+      Interested in Computer Vision, Machine Learning, AI, Signal Processing.
 education:
-    - degree: M.Tech. in Electrical Engineering
+    - degree: M.Tech. in EE
       university: IIT Kanpur
       time: 2018 - 2020
       details: |
@@ -89,7 +90,7 @@ projects:
         link: "https://github.com/kritiksoman/Aerial-Segmentation"
         tagline: "Few scripts for processing aerial drone data."
         
-      - title: Wireless Sensor Network
+      - title: WSN Localization
         link: "https://github.com/kritiksoman/WSN-Localization"
         tagline: "Scipts for node localization in a Wireless Sensor Network"
         
@@ -97,6 +98,9 @@ projects:
         link: "https://github.com/kritiksoman/Fuzzy-Salt-n-Pepper-Denoise"
         tagline: "Script for removing Salt and Pepper noise from greyscale image using Type 2 Fuzzy System."
         
+      - title: Magnetometer Calibration
+        link: "https://github.com/kritiksoman/Magnetometer-Calibration"
+        tagline: "Script for calibrating a MEMS magnetometer."        
 
 
 publications:
