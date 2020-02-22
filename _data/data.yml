@@ -97,13 +97,7 @@ projects:
         link: "https://github.com/kritiksoman/Fuzzy-Salt-n-Pepper-Denoise"
         tagline: "Script for removing Salt and Pepper noise from greyscale image using Type 2 Fuzzy System."
         
-      - title: Adaptive Learning Rate
-        link: "https://github.com/kritiksoman/CV-and-Neural-Nets-Basic/tree/master/Adaptive-Learning-Rate-Lyapunov"
-        tagline: "Implementation of the paper "On adaptive learning rate that guarantees convergence in feedforward networks"
-        
-      - title: Magnetometer Calibration
-        link: "https://github.com/kritiksoman/Magnetometer-Calibration"
-        tagline: "Script for calibrating a MEMS magnetometer."
+
 
 publications:
     title: Publications
