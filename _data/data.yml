@@ -82,7 +82,7 @@ education:
 
 projects:
     title: Projects
-    intro: >
+    intro: |
       Some open source stuff:
     assignments:
       - title: Aerial Drone Data Processing
