@@ -107,10 +107,10 @@ projects:
 
 publications:
     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
       - title: Rooftop Detection using Aerial Drone Imagery
         link: "https://dlnext.acm.org/doi/abs/10.1145/3297001.3297041"
