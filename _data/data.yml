@@ -85,21 +85,21 @@ projects:
     intro: >
       Some open source stuff:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Image Denoising
+        link: "https://github.com/kritiksoman/Fuzzy-Salt-n-Pepper-Denoise"
+        tagline: "Script for removing Salt and Pepper noise from greyscale image using Type 2 Fuzzy System."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Adaptive Learning Rate
+        link: "https://github.com/kritiksoman/CV-and-Neural-Nets-Basic/tree/master/Adaptive-Learning-Rate-Lyapunov"
+        tagline: "Implementation of the paper "On adaptive learning rate that guarantees convergence in feedforward networks"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Aerial Drone Data Processing
+        link: "https://github.com/kritiksoman/Aerial-Segmentation"
+        tagline: "Few scripts for processing aerial drone data."
+        
+      - title: Wireless Sensor Network
+        link: "https://github.com/kritiksoman/WSN-Localization"
+        tagline: "Scipts for node localization in a "
 
       - title: Delta
         link: "#"
