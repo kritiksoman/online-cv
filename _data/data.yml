@@ -86,6 +86,10 @@ projects:
     intro: |
       Some open source stuff:
     assignments:
+      - title: GIMP-ML
+        link: "https://github.com/kritiksoman/GIMP-ML"
+        tagline: "Machine Learning Python Plugins for GNU Image Manipulation Program"
+        
       - title: Aerial Drone Data Processing
         link: "https://github.com/kritiksoman/Aerial-Segmentation"
         tagline: "Few scripts for processing aerial drone data."
