@@ -8,7 +8,8 @@
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background-color: #fafafa;
       color: #333;
-      margin: 60px auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
       margin-left: 20px;
       margin-right: 20px;
       max-width: 900px;
@@ -67,12 +68,16 @@
     p {
       margin: 10px 0;
     }
+
     .gradient-text {
-      font-size: 48px;
-      font-weight: bold;
-      background: linear-gradient(90deg, #0F52BA 10%, #db008b 50%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
+    display: inline-block;
+    font-size: 48px;
+    font-weight: bold;
+    background: linear-gradient(90deg, #0F52BA 10%, #db008b 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text; /* Optional for broader support */
+    text-fill-color: transparent;
     }
   </style>
 </head>
